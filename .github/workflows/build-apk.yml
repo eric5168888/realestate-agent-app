@@ -1,9 +1,1 @@
-realestate-agent-app/
-├── package.json / vite.config.js / capacitor.config.json
-├── index.html
-└── src/
-    ├── App.jsx            # 導覽列與總覽頁
-    ├── main.jsx / styles.css
-    ├── components/CrudPage.jsx   # 客戶/案件/租賃共用的列表與表單
-    ├── pages/Clients.jsx, Deals.jsx, Rentals.jsx, Mortgage.jsx
-    └── lib/format.js, storage.js, mortgage.js
+
